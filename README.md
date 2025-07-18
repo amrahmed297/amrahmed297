@@ -21,3 +21,19 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amrahmed297&show_icons=true&theme=radical" alt="amrahmed297 stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrahmed297&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amrahmed297/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Amr%20Ahmed-blue?style=flat&logo=linkedin"></a>
+  <a href="mailto:amrahmed297@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-amrahmed297@gmail.com-red?style=flat&logo=gmail"></a>
+</p>
